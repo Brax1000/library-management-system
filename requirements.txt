@@ -1,2 +1,2 @@
-# Uses Python standard library only; Tkinter is included with standard Windows Python installs.
+# The Vercel web entrypoint and desktop version use the Python standard library only.
 
